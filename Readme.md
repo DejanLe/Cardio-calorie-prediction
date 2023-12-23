@@ -1,3 +1,7 @@
+Python, Flask. Linear regresion machine learning application
+
+
+Update
 …or create a new repository on the command line
 echo "# Cardio-calorie-prediction" >> README.md
 git init
